@@ -4,7 +4,7 @@
 
 #--- String (Test) ---
 test_url = "https://www.example.com"
-tester_name = "Yout Name"
+tester_name = "Your Name"
 
 # --- Integer (Whole Number) ---
 total_test_cases = 50
